@@ -12,20 +12,7 @@ end
 
 
 def find_min_value(array)
-  count = 0 
-  min = 0
-while count < array.length do
-  if count == 0 
-    min = array[count]
-  else 
-  if array[count] < min 
-    min = array[count]
-  end 
-end 
-count += 1
-end 
-min 
-end 
+ 
 
 def find_element_index(array, value_to_find)
   count = 0
