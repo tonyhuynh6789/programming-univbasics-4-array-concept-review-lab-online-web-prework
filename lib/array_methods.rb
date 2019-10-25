@@ -5,7 +5,6 @@ array.length.times do |count|
     max = array[count]
   end 
 end 
-max 
 end 
   
   
